@@ -1,7 +1,5 @@
 <h1 align="center">Arduino Nano Music Box</h1>
 
-<img alt="GitHub Downloads (all assets, all releases)" src="https://img.shields.io/github/downloads/AngelaArmena/arduino-nano-music-box/total">
-
 A simple music box that plays 6 different songs: 
 - **Christmas in our Hearts** by Jose Mari Chan
 - **Merry Go Round of Life** by Joe Hisaishi
@@ -30,10 +28,11 @@ I hope to implement a button to this project so that you don't have to unplug an
 
 ## INSTALLATION AND RUNNING THE PROJECT
 
-- Download **music_box.ino**.
+- Download the raw file of [**music_box.ino**](https://github.com/AngelaArmena/arduino-nano-music-box/blob/main/music_box/music_box.ino).
 - Run using Arduino IDE.
-- In the IDE, click on the **Select Board** dropdown then **Select Other Board and Port**
-- For the board choose **Arduino Nano** and for port choose **COM5 Serial Port(USB)** _or any other port as long as it has (USB) in it_
+- If a pop-up shows telling you to create a folder and move the file into it then click **OK**.
+- In the IDE, click on the **Select Board** dropdown then **Select Other Board and Port**.
+- For the board choose **Arduino Nano** and for port choose **COM5 Serial Port(USB)** _or any other port as long as it has (USB) in it_.
 - Connect your Arduino Nano to your PC then click on the **Upload** button.
 - The music box should work now.
 
